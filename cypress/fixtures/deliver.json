@@ -1,0 +1,50 @@
+{
+    "signup": {
+        "name": "Maitê I Perez",
+        "cpf": "37726609376",
+        "email": "maiteiperez@teste.com.br",
+        "whatsapp": "11988776655",
+        "address": {
+            "postalcode": "13212241",
+            "street": "Avenida Francisco Nobre",
+            "number": "1234",
+            "details": "Bl 11 Apto 32",
+            "district": "Medeiros",
+            "city_state": "Jundiaí/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "cpf_inv": {
+        "name": "Josias Da Silva",
+        "cpf": "377266093QQ",
+        "email": "josiassilva@teste.com.br",
+        "whatsapp": "119776655",
+        "address": {
+            "postalcode": "13212241",
+            "street": "Avenida Francisco Nobre",
+            "number": "1234",
+            "details": "Bl 11 Apto 32",
+            "district": "Medeiros",
+            "city_state": "Jundiaí/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    },
+    "email_inv": {
+        "name": "Maitê I Perez",
+        "cpf": "37726609376",
+        "email": "maiteiperez.com.br",
+        "whatsapp": "11988776655",
+        "address": {
+            "postalcode": "13212241",
+            "street": "Avenida Francisco Nobre",
+            "number": "1234",
+            "details": "Bl 11 Apto 32",
+            "district": "Medeiros",
+            "city_state": "Jundiaí/SP"
+        },
+        "delivery_method": "Moto",
+        "cnh": "cnh-digital.jpg"
+    }
+}
